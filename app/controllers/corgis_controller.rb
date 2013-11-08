@@ -1,8 +1,9 @@
 class CorgisController < ApplicationController
   def index
     respond_to do |format|
-      format.html render @corgis = Corgi.all
-      format.json render @corgis = Corgi.page(params[:page])
+      @corgis = Corgi.page(params[:page])
+      format.html { render @corgis  }
+      format.json { render :json => @corgis.as_json }
     end
   end
 end
