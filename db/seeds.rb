@@ -13,6 +13,46 @@ CORGIS = %w(
   http://i.imgur.com/84ZF6UW.jpg
   http://i.imgur.com/LnM97w3.png
   http://i.imgur.com/fjm0oDO.jpg
+  http://i.imgur.com/8vtYcgt.jpg
+  http://i.imgur.com/k6v5d7M.jpg
+  http://i.imgur.com/KhlV8VW.gif
+  http://i.imgur.com/tm7bIuR.jpg
+  http://i.imgur.com/jTJMbmZ.jpg
+  http://i.imgur.com/4C7CkqO.jpg
+  http://i.imgur.com/G6GOg6v.jpg
+  http://i.imgur.com/ahfW7hY.jpg
+  http://i.imgur.com/wyvZCSR.jpg
+  http://i.imgur.com/2U5umMQ.jpg
+  http://i.imgur.com/XKMN5Wf.jpg
+  http://i.imgur.com/3Vllq9r.jpg
+  http://i.imgur.com/b47KJdm.jpg
+  http://i.imgur.com/FSXNFKN.jpg
+  http://i.imgur.com/FVFC6mj.jpg
+  http://i.imgur.com/db46Nyn.jpg
+  http://i.imgur.com/MuG0si3.jpg
+  http://i.imgur.com/2dZVMmq.jpg
+  http://i.imgur.com/UR4xjXW.jpg
+  http://i.imgur.com/hk1LoF1.jpg
+  http://i.imgur.com/xO4Epky.jpg
+  http://i.imgur.com/Pjf2XQf.jpg
+  http://i.imgur.com/aJ5sHdP.jpg
+  http://i.imgur.com/TwGhJNN.jpg
+  http://i.imgur.com/3czlFak.jpg
+  http://i.imgur.com/bSvx0Hb.jpg
+  http://i.imgur.com/rXqLj2Z.jpg
+  http://i.imgur.com/Bb7aT1h.jpg
+  http://i.imgur.com/RUH8Mxg.jpg
+  http://i.imgur.com/aLQLGc8.jpg
+  http://i.imgur.com/DMCl1Fz.jpg
+  http://i.imgur.com/viI8Tbc.jpg
+  http://i.imgur.com/1uaIXxW.jpg
+  http://i.imgur.com/kixHkoo.jpg
+  http://i.imgur.com/q7JP7fP.jpg
+  http://i.imgur.com/y6GAVdr.jpg
+  http://i.imgur.com/e4yorqu.jpg
+  http://i.imgur.com/LYrYkoY.jpg
+  http://i.imgur.com/gVVeHQB.jpg
+  http://i.imgur.com/1PdhwTX.jpg
 )
 
 1000.times do
