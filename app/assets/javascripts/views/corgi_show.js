@@ -1,4 +1,4 @@
-Infinite.Views.Corgi = Backbone.View.extend({
+Infinite.Views.CorgiShow = Backbone.View.extend({
   template: JST['corgis/show'],
 
   render: function () {
