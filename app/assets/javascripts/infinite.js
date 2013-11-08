@@ -6,7 +6,7 @@ window.Infinite = {
   initialize: function() {
     var $content = $('#content');
     var corgis = new Infinite.Collections.Corgis();
-    console.log($content);
+
     corgis.fetch({
       data: { page: 1 },
       success: function () {

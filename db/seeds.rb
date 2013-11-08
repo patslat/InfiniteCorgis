@@ -1,6 +1,5 @@
 CORGIS = %w(
   http://i.imgur.com/CVYHEp0.jpg
-  http://i.imgur.com/r8WS92p
   http://i.imgur.com/0ZjWlLi.jpg
   http://i.imgur.com/TwByYao.jpg
   http://i.imgur.com/NHuvhHh.jpg
